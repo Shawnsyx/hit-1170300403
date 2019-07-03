@@ -1,0 +1,13 @@
+n=5
+h=20
+monkey=<0,1,R->L,2>
+monkey=<0,2,R->L,5>
+monkey=<0,3,R->L,5>
+monkey=<0,4,R->L,2>
+monkey=<0,5,R->L,5>
+monkey=<0,6,L->R,4>
+monkey=<0,7,R->L,5>
+monkey=<0,8,R->L,3>
+monkey=<0,9,L->R,5>
+monkey=<0,10,R->L,4>
+
