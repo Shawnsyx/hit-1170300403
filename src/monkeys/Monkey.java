@@ -2,8 +2,6 @@ package monkeys;
 
 import static run.Client.manyLadders;
 import java.util.Random;
-import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.TimeUnit;
 import ladders.Ladder;
 import strategy.StrategyOne;
 import strategy.StrategyThree;

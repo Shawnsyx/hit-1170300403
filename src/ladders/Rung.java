@@ -1,6 +1,5 @@
 package ladders;
 
-import monkeys.Monkey;
 
 /**
  * This is an immutable type. 
