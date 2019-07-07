@@ -14,10 +14,12 @@ public class StrategyTwoTest {
   private Ladder l1 = new Ladder(1);
   private Ladder l2 = new Ladder(2);
   private Ladder l3 = new Ladder(3);
+  private Ladder l4 = new Ladder(4);
   
   @Test
   public void ladderTest1() {
     Monkey m1 = new Monkey(1, Direction.LtoR, 3);
+    Monkey m2 = new Monkey(2, Direction.RtoL, 4);
     Monkey m3 = new Monkey(3, Direction.RtoL, 2);
     Monkey m4 = new Monkey(4, Direction.RtoL, 5);
     l1.jumpOn(m1);
