@@ -1,7 +1,6 @@
 package strategytest;
 
 import static org.junit.Assert.assertEquals;
-import static run.Client.manyLadders;
 
 import java.util.ArrayList;
 import java.util.List;

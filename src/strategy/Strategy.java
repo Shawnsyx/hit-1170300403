@@ -1,6 +1,5 @@
 package strategy;
 
-import static run.Client.*;
 
 import java.util.List;
 import ladders.Ladder;

@@ -3,21 +3,14 @@ package visual;
 import static run.Client.*;
 import java.awt.Color;
 import java.awt.Graphics;
-import java.awt.Graphics2D;
 import java.awt.Image;
-import java.awt.Shape;
-import java.awt.font.FontRenderContext;
-import java.awt.geom.Ellipse2D;
-import java.awt.geom.Rectangle2D;
 import java.util.List;
 import java.util.Map;
-import javax.sound.midi.Soundbank;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import ladders.Ladder;
 import monkeys.Monkey;
-import monkeys.Monkey.Direction;
 
 public class Cartoon implements Runnable {
 

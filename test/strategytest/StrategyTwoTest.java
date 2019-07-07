@@ -7,7 +7,6 @@ import org.junit.Test;
 import ladders.Ladder;
 import monkeys.Monkey;
 import monkeys.Monkey.Direction;
-import strategy.StrategyOne;
 import strategy.StrategyTwo;
 
 public class StrategyTwoTest {
